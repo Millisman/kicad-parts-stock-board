@@ -1,0 +1,1 @@
+# kicad-parts-stock-board
